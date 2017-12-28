@@ -1,0 +1,12 @@
+server:
+  port: 8082
+  context-path: /visionliu
+
+cupSize: B
+age: 18
+content: "cupSize: ${cupSize}, age: ${age}"
+
+girl:
+  cupSize: F
+  age: 25
+  name: mm-prd
